@@ -1,7 +1,0 @@
-C:\Users\admin\source\repos\exc2_person\exc2_person\obj\Debug\exc2_person.csprojAssemblyReference.cache
-C:\Users\admin\source\repos\exc2_person\exc2_person\obj\Debug\exc2_person.csproj.CoreCompileInputs.cache
-C:\Users\admin\source\repos\exc2_person\exc2_person\bin\Debug\exc2_person.exe.config
-C:\Users\admin\source\repos\exc2_person\exc2_person\bin\Debug\exc2_person.exe
-C:\Users\admin\source\repos\exc2_person\exc2_person\bin\Debug\exc2_person.pdb
-C:\Users\admin\source\repos\exc2_person\exc2_person\obj\Debug\exc2_person.exe
-C:\Users\admin\source\repos\exc2_person\exc2_person\obj\Debug\exc2_person.pdb
